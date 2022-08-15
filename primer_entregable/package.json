@@ -1,0 +1,12 @@
+{
+  "name": "first_task",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "index.js",
+  "scripts": {
+    "entregable": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FrankGiraldo",
+  "license": "ISC"
+}
